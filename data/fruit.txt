@@ -6,4 +6,8 @@ Pear;non;6.1cm
 Orange;210g;non
 Apple;172g;7.0cm
 Banana;130g;3.7cm
+Grapes;85g;2.1cm
+Mango;200g;8.5cm
+Pear;150g;6.4cm
+Orange;190g;7.8cm
 # End of sample
